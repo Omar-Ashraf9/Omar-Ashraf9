@@ -33,6 +33,7 @@ I am a passionate Software Engineer with a strong interest in Java and its core 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Omar-Ashraf9&theme=gruvbox&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Ashraf9&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Omar-Ashraf9&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Ashraf9&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
