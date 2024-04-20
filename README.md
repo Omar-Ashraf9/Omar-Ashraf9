@@ -7,30 +7,32 @@
 </div>
 
 
+# 💫 About Me
 
-## 🎯 About Me
-
-I am a passionate Software Engineer with a strong interest in Java and its core technologies. I thrive on tackling complex problems and transforming innovative ideas into elegant, scalable solutions.
-
-I am dedicated to lifelong learning and actively seek to broaden my knowledge and skills each day. Exploring new insights and technologies is a key part of my professional journey
+I am a passionate Software Engineer with a strong interest in Java and its core technologies. I thrive on tackling complex problems and transforming innovative ideas into elegant, scalable solutions.<br><br>I am dedicated to lifelong learning and actively seek to broaden my knowledge and skills each day. Exploring new insights and technologies is a key part of my professional journey
 
 
-### Frontend
-- ![HTML5](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-- ![jQuery](https://img.shields.io/badge/jQuery-blue?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Backend
-- ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
-- ![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white)
-- ![REST](https://img.shields.io/badge/REST-blue?style=for-the-badge&logo=rest&logoColor=white)
-- ![SOAP](https://img.shields.io/badge/SOAP-blue?style=for-the-badge&logo=soap&logoColor=white)
-- ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
-- ![Maven](https://img.shields.io/badge/Maven-red?style=for-the-badge&logo=apache%20maven&logoColor=white)
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omar-ashraf9/) 
 
-### DevOps
-- ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
+
+
+## 🛠 IDEs
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white&logoWidth=40&logoHeight=40)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=40&logoHeight=40)
+![Eclipse](https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=eclipse&logoColor=white&logoWidth=40&logoHeight=40)
+![NetBeans](https://img.shields.io/badge/NetBeans-orange?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&logoWidth=40&logoHeight=40)
+![CLion](https://img.shields.io/badge/CLion-green?style=for-the-badge&logo=clion&logoColor=white&logoWidth=40&logoHeight=40)
+![DataGrip](https://img.shields.io/badge/DataGrip-<gradient>?style=for-the-badge&logo=datagrip&logoColor=white&logoWidth=40&logoHeight=40)
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Omar-Ashraf9&theme=gruvbox&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Ashraf9&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
