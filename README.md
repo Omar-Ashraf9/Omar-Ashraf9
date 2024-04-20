@@ -1,8 +1,11 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <div style="text-align: center;">
-    <h2>Hi 👋, I'm Omar Ashraf</h2>
-  </div>
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width="100"/>
 </div>
+
+<div align="center">
+  <h2>Hi 👋, I'm Omar Ashraf</h2>
+</div>
+
 
 
 ## 🎯 About Me
