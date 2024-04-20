@@ -1,8 +1,9 @@
-<center>
+<div style="text-align: center;">
 
-  ### Hi 👋, I'm Omar Ashraf
+### Hi 👋, I'm Omar Ashraf
 
-</center>
+</div>
+
 
 ## 🎯 About Me
 
