@@ -1,8 +1,8 @@
-<center>
-
-### Hi 👋, I'm Omar Ashraf
-
-</center>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <div style="text-align: center;">
+    <h2>Hi 👋, I'm Omar Ashraf</h2>
+  </div>
+</div>
 
 
 ## 🎯 About Me
